@@ -12,6 +12,8 @@ Sobre o Bloom Filter:
     
 Pode ser utilizado para saber se uma string ou int está presente em uma coleção.. como email, senha, ID, etc...
 
+Utilizado em caches.
+
 # Referências: 
   - https://www.youtube.com/watch?v=sqV1kwBJdWE&list=PLSkWUglft13Ti2UetxBKldlnhhPALh2tt&index=27&ab_channel=ElemarJunior
   - https://eximia.co/como-bloom-filter-pode-ser-utilizada-para-melhorar-a-performance/
